@@ -15,7 +15,11 @@ Sample project to write PHP automated tests.
 
 ## Usage
 
-Clone this repository.
+Clone this repository:
+
+```bash
+$> git clone https://github.com/MediaComem/comem-archidep-php-automated-tests
+```
 
 Run the script:
 
