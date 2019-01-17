@@ -24,6 +24,8 @@ $> git clone https://github.com/MediaComem/comem-archidep-php-automated-tests
 Run the script:
 
 ```bash
+$> cd comem-archidep-php-automated-tests
+
 $> php file-stats.php data/rainbow.txt
 File: /path/to/data/rainbow.txt
 Lines: 51
